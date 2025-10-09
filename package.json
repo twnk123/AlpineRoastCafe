@@ -1,0 +1,38 @@
+{
+  "name": "alpine-roast-cafe",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "framer-motion": "^11.0.0",
+    "lucide-react": "^0.453.0",
+    "next": "^14.2.33",
+    "postcss": "^8.4.47",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.14",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.4.8",
+    "@testing-library/react": "^16.0.1",
+    "@testing-library/user-event": "^14.5.2",
+    "@types/node": "22.18.8",
+    "@types/react": "18.3.25",
+    "@types/react-dom": "^18.3.0",
+    "axe-core": "^4.10.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.5",
+    "jsdom": "^24.1.1",
+    "typescript": "5.9.3",
+    "vitest": "^2.1.1"
+  }
+}

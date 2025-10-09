@@ -1,0 +1,82 @@
+{
+  "name": "Alpine Roast Café",
+  "tagline": "Award-winning specialty coffee in the heart of Ljubljana",
+  "ctaText": "Say hello",
+  "about": "Alpine Roast Café is Ljubljana's premier specialty coffee destination. We serve handcrafted espresso drinks using single-origin beans roasted locally in Slovenia. Whether you're looking for a quick morning espresso or a cozy spot to work with free wifi, our expert baristas are here to craft the perfect cup.",
+  "address": "Miklošičeva cesta 3, Ljubljana, Slovenia",
+  "phone": "+386 1 234 5678",
+  "coordinates": {
+    "latitude": "46.0569",
+    "longitude": "14.5058"
+  },
+  "hours": [
+    { "days": "Mon–Fri", "time": "07:30–19:00" },
+    { "days": "Sat–Sun", "time": "08:00–18:00" }
+  ],
+  "locationContext": {
+    "neighborhood": "Ljubljana City Center",
+    "nearbyLandmarks": [
+      "Ljubljana Train Station (5 min walk)",
+      "Prešeren Square (10 min walk)",
+      "Ljubljana Castle (15 min walk)"
+    ],
+    "accessibility": "Ground floor entrance, wheelchair accessible, free wifi",
+    "parking": "Street parking available, public garage 2 blocks away",
+    "publicTransport": "Bus stop 'Miklošičeva' right outside (routes 1, 3, 5, 6)"
+  },
+  "faqs": [
+    {
+      "question": "What makes Alpine Roast Café special?",
+      "answer": "We specialize in single-origin espresso and handcrafted coffee using beans roasted locally in Slovenia. Our baristas are trained in specialty coffee preparation and latte art."
+    },
+    {
+      "question": "Where is Alpine Roast Café located in Ljubljana?",
+      "answer": "We're located at Miklošičeva cesta 3 in Ljubljana, Slovenia, in the heart of the city center, just 5 minutes walk from the main train station."
+    },
+    {
+      "question": "What are your opening hours?",
+      "answer": "We're open Monday to Friday from 7:30 AM to 7:00 PM, and weekends from 8:00 AM to 6:00 PM."
+    },
+    {
+      "question": "Do you have wifi and seating for remote work?",
+      "answer": "Yes! We offer free high-speed wifi and comfortable seating perfect for remote work, studying, or casual meetings."
+    },
+    {
+      "question": "Do you offer vegan milk alternatives?",
+      "answer": "Absolutely! We offer oat milk, almond milk, and soy milk as dairy-free alternatives for all our coffee drinks."
+    },
+    {
+      "question": "What coffee brewing methods do you use?",
+      "answer": "We offer espresso-based drinks (espresso, cappuccino, flat white), pour-over coffee, and cold brew. All made with single-origin beans."
+    }
+  ],
+  "menu": [
+    { "name": "Espresso", "desc": "Single origin Ethiopian Yirgacheffe - bright, fruity notes with floral aroma", "price": "€2.20", "badges": [] },
+    { "name": "Cappuccino", "desc": "Velvety microfoam with award-winning latte art - perfect balance of espresso and milk", "price": "€2.80", "badges": [] },
+    { "name": "Flat White", "desc": "Smooth & strong double shot with silky steamed milk - Australian style", "price": "€3.00", "badges": [] },
+    { "name": "Cold Brew", "desc": "12-hour steep for smooth, low-acid coffee - refreshing and naturally sweet", "price": "€3.50", "badges": ["seasonal"] },
+    { "name": "Pour Over", "desc": "Clean, crisp single-origin coffee brewed to perfection - taste the terroir", "price": "€4.00", "badges": [] },
+    { "name": "Matcha Latte", "desc": "Ceremonial grade Japanese matcha - creamy, earthy, and antioxidant-rich", "price": "€3.80", "badges": ["vegan"] }
+  ],
+  "promo": { "enabled": true, "title": "Autumn Spiced Latte", "copy": "Limited roast with cinnamon & clove.", "ctaText": "Try it now", "ctaUrl": "#menu" },
+  "reviews": [
+    { "quote": "Best cappuccino in town.", "author": "Local Guide" },
+    { "quote": "Vibe, music, and beans are top-tier.", "author": "Ana K." },
+    { "quote": "My daily stop before work.", "author": "Tim P." }
+  ],
+  "social": {
+    "instagram": "https://instagram.com/alpineroastcafe",
+    "facebook": "https://facebook.com/alpineroastcafe",
+    "tiktok": "https://tiktok.com/@alpineroastcafe"
+  },
+  "mapUrl": "https://maps.google.com/?q=Summit%20Brew%20Cafe%20Ljubljana",
+  "gallery": [
+    { "src": "/images/gallery/1.jpg", "alt": "Espresso in sunlight", "w": 1200, "h": 1500 },
+    { "src": "/images/gallery/2.jpg", "alt": "Coffee tools and beans", "w": 1200, "h": 900 },
+    { "src": "/images/gallery/3.jpg", "alt": "Cappuccino with latte art", "w": 1200, "h": 900 },
+    { "src": "/images/gallery/4.jpg", "alt": "Café interior", "w": 1200, "h": 900 },
+    { "src": "/images/gallery/5.jpg", "alt": "Barista station", "w": 1200, "h": 900 },
+    { "src": "/images/gallery/6.jpg", "alt": "Customer enjoying coffee", "w": 1200, "h": 900 }
+  ]
+}
+
